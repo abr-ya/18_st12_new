@@ -10,6 +10,7 @@ mkdir "css"
 mkdir "js"
 
 #перемещение файла
+cd ..
 mv "nginx.conf" "etc/nginx.conf"
 
 #запуск сервера
