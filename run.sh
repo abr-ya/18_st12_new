@@ -1,8 +1,6 @@
 #! /bin/bash
 
 #создание папок
-mkdir "web"
-cd web
 mkdir "public"
 mkdir "uploads"
 mkdir "etc"
